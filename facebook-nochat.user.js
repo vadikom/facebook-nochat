@@ -2,9 +2,10 @@
 // @name Facebook No-Chat!
 // @author Vasil Dinkov
 // @namespace http://vadikom.com/dailies/how-to-disable-and-hide-the-facebook-chat/
-// @version 1.0
-// @description Makes sure you are unavailbe for chat, hides the obtrusive chat floating box/sidebar and centers the rest of the page.
-// @include http://www.facebook.com/*
+// @version 1.1
+// @description Makes sure you are unavailabe for chat, hides the obtrusive chat floating box/sidebar and centers the rest of the page.
+// @include http://*.facebook.com/*
+// @include https://*.facebook.com/*
 // ==/UserScript==
 
 (function () {
